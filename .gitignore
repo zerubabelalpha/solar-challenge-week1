@@ -1,0 +1,15 @@
+#python
+.python
+build/
+.installed.cfg
+
+#virtual_environment
+.venv
+
+#IDE
+.vscode
+
+#Data
+.csv
+
+#Logs
