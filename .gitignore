@@ -7,7 +7,7 @@ build/
 .venv
 
 #IDE
-.vscode
+.vscode/
 
 #Data
 .csv
