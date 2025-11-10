@@ -11,5 +11,6 @@ build/
 
 #Data
 .csv
+EDA_project/data
 
 #Logs
