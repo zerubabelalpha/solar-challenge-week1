@@ -3,15 +3,13 @@
 build/
 .installed.cfg
 
+
+#Data
+data/*.csv
+
 #virtual_environment
 .venv
 
 #IDE
 .vscode/
 
-#Data
-.csv
-data/
-*.csv
-
-#Logs
