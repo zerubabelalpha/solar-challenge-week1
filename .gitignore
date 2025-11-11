@@ -3,6 +3,8 @@
 build/
 .installed.cfg
 
+
+utils/__pycache__
 #virtual_environment
 .venv
 
@@ -13,4 +15,4 @@ build/
 .csv
 data/*.csv
 
-utils/__pycache__
+
