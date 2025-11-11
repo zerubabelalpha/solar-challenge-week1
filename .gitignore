@@ -13,4 +13,6 @@ build/
 .csv
 .data/
 
+
+utils/__pycache__
 #Logs
