@@ -11,6 +11,6 @@ build/
 
 #Data
 .csv
-.data/
+data
 
 #Logs
